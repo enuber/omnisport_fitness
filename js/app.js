@@ -481,7 +481,7 @@ var icons = {
 	
 function initMap() {
 	// The location of OSF
-	var osf = {lat: 33.7409, lng: -117.8247};
+	var osf = {lat: 33.74302, lng: -117.82359};
 	// The map, centered at Omnisport Fitness
 	var map = new google.maps.Map(
 	document.getElementById('map'), {
